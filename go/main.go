@@ -1,9 +1,8 @@
 package main
 
-import (
-  "fmt"
-)
-
 func main() {
-  fmt.Println("Hello World")
+}
+
+func playGame(int player1, int player2) int {
+
 }

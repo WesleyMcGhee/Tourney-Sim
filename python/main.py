@@ -6,6 +6,7 @@ class Tourney:
         players = self.players
     
     def CreateBraket():
+
         
 
 class Player:
